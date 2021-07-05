@@ -1,0 +1,6 @@
+README
+
+Fourier Series Animation.
+The purpose of this program is to provide a visualisation of the complex fourier series.
+The objective was to create an animation that shows the component parts of the fourier series and how they change with time.
+I used Java and JavaFX to create this program.
